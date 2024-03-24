@@ -55,7 +55,7 @@ if __name__ == "__main__":
                 print(torch.cuda.get_device_name(torch.cuda.current_device()))
             # define the random seed and device
 
-            cylinder_data = np.load('./cylinder_data/cylinder_clean.npy')
+            cylinder_data = io.loadmat('./cylinder_data/CYLINDER_ALL.mat')['VORTALL'].T
             cylinder_data_noise = np.load('./cylinder_data/cylinder_noise_{}.npy'.format(gauss_value))
             # load clean and noisy data, clean data is only for computing the error with ground truth
 
