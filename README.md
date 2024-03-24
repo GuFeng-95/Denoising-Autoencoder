@@ -16,7 +16,7 @@ pip install --upgrade torch
 2. Run the gen_cylinder_data.py
 3. Adjust the parameter in train_cylinder.py
 4. Run train_cylinder.py
-5. Chosse the best model according to the methods in paper to reconstruct the clean output
+5. Choose the best model according to the methods in paper to reconstruct the clean output
 
 ### Pattern data
 
@@ -24,4 +24,4 @@ pip install --upgrade torch
 2. Run the gen_pattern_data.py
 3. Adjust the parameter in train_pattern.py
 4. Run train_pattern.py
-5. Chosse the best model according to the methods in paper to reconstruct the clean output
+5. Choose the best model according to the methods in paper to reconstruct the clean output
