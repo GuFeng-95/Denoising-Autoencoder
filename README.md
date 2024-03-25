@@ -16,6 +16,7 @@ This project was created for the article "Denoising Image-based Experimental Dat
 Suggest installing Anaconda and Pytorch:
 
 https://www.anaconda.com/download
+
     pip install --upgrade torch
 
 ## To run the demo
