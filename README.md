@@ -3,14 +3,14 @@
 This project was created for the article "Denoising Image-based Experimental Data without Clean Targets based on Deep Autoencoders".
 
 ## Cite
-@article{gu2024denoising,
-  title={Denoising image-based experimental data without clean targets based on deep autoencoders},
-  author={Gu, Feng and Discetti, Stefano and Liu, Yingzheng and Cao, Zhaomin and Peng, Di},
-  journal={Experimental Thermal and Fluid Science},
-  pages={111195},
-  year={2024},
-  publisher={Elsevier}
-}
+    @article{gu2024denoising,
+      title={Denoising image-based experimental data without clean targets based on deep autoencoders},
+      author={Gu, Feng and Discetti, Stefano and Liu, Yingzheng and Cao, Zhaomin and Peng, Di},
+      journal={Experimental Thermal and Fluid Science},
+      pages={111195},
+      year={2024},
+      publisher={Elsevier}
+    }
 
 ## Dependencies
 Suggest installing Anaconda and Pytorch:
